@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Localisez Cela</string>
+    <string name="greeting">Bonjour le monde</string>
+    <string name="translate_button">Traduis-moi</string>
+    <string name="Toast">c\'est un toast</string>
+</resources>

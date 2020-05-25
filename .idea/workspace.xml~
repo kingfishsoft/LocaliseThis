@@ -1,0 +1,1028 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dfaaae0c-93f8-45c6-8333-df7c118d8da5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../CoolMenu/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoolMenu/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoolMenu/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoolMenu/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoolMenu/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoolMenu/app/src/main/java/com/kingfishapps/coolmenu/AboutFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoolMenu/app/src/main/res/drawable/kingfish_apps.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoolMenu/app/src/main/res/layout/about_fragment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoolMenu/app/src/main/res/menu/options.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoolMenu/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learn Moroccan Arabic Pro/app/src/main/java/com/kingfishapps/android/navigation/SplashActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learn Moroccan Arabic Pro/app/src/main/res/drawable/flash_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Learn Tunisian Now/Learn Tunisian Now.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Meditation Timer/Meditation Timer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Meditation Timer/app/app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mytestflash/app/src/main/java/com/kingfishapps/mytestflash/SplashActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pomodoro-master/.idea/Pomodoro-master.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMessage-master/TMessage-master.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/.idea/android-kotlin-notifications-master.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/.idea/libraries/Gradle__androidx_activity_activity_1_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/.idea/libraries/Gradle__androidx_annotation_annotation_1_1_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/.idea/libraries/Gradle__androidx_appcompat_appcompat_1_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/.idea/libraries/Gradle__androidx_appcompat_appcompat_resources_1_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/.idea/libraries/Gradle__androidx_arch_core_core_common_2_1_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/.idea/libraries/Gradle__androidx_arch_core_core_runtime_2_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/.idea/libraries/Gradle__androidx_asynclayoutinflater_asynclayoutinflater_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/.idea/libraries/Gradle__androidx_collection_collection_1_1_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_1_1_3_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_solver_1_1_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/.idea/libraries/Gradle__androidx_coordinatorlayout_coordinatorlayout_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/.idea/libraries/Gradle__androidx_core_core_1_2_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/.idea/libraries/Gradle__androidx_core_core_ktx_1_2_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/.idea/libraries/Gradle__androidx_cursoradapter_cursoradapter_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/.idea/libraries/Gradle__androidx_customview_customview_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/.idea/libraries/Gradle__androidx_databinding_databinding_adapters_3_6_2_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/.idea/libraries/Gradle__androidx_databinding_databinding_common_3_6_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/.idea/libraries/Gradle__androidx_databinding_databinding_runtime_3_6_2_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/.idea/libraries/Gradle__androidx_databinding_viewbinding_3_6_2_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/.idea/libraries/Gradle__androidx_documentfile_documentfile_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/.idea/libraries/Gradle__androidx_drawerlayout_drawerlayout_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/.idea/libraries/Gradle__androidx_fragment_fragment_1_2_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/.idea/libraries/Gradle__androidx_interpolator_interpolator_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/.idea/libraries/Gradle__androidx_legacy_legacy_support_core_ui_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/.idea/libraries/Gradle__androidx_legacy_legacy_support_core_utils_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/.idea/libraries/Gradle__androidx_legacy_legacy_support_v4_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_common_2_2_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_extensions_2_2_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_2_2_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_core_2_2_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_process_2_2_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_2_2_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_service_2_2_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_2_3_0_alpha01_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_ktx_2_3_0_alpha01_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_savedstate_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/.idea/libraries/Gradle__androidx_loader_loader_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/.idea/libraries/Gradle__androidx_localbroadcastmanager_localbroadcastmanager_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/.idea/libraries/Gradle__androidx_media_media_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/.idea/libraries/Gradle__androidx_print_print_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/.idea/libraries/Gradle__androidx_room_room_common_2_0_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/.idea/libraries/Gradle__androidx_room_room_runtime_2_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/.idea/libraries/Gradle__androidx_savedstate_savedstate_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/.idea/libraries/Gradle__androidx_slidingpanelayout_slidingpanelayout_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/.idea/libraries/Gradle__androidx_sqlite_sqlite_2_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/.idea/libraries/Gradle__androidx_sqlite_sqlite_framework_2_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/.idea/libraries/Gradle__androidx_swiperefreshlayout_swiperefreshlayout_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/.idea/libraries/Gradle__androidx_test_espresso_espresso_core_3_2_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/.idea/libraries/Gradle__androidx_test_espresso_espresso_idling_resource_3_2_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/.idea/libraries/Gradle__androidx_test_monitor_1_2_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/.idea/libraries/Gradle__androidx_test_runner_1_2_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_1_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_animated_1_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/.idea/libraries/Gradle__androidx_versionedparcelable_versionedparcelable_1_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/.idea/libraries/Gradle__androidx_viewpager_viewpager_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/.idea/libraries/Gradle__androidx_work_work_runtime_2_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/.idea/libraries/Gradle__com_google_android_gms_play_services_ads_identifier_17_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/.idea/libraries/Gradle__com_google_android_gms_play_services_base_17_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/.idea/libraries/Gradle__com_google_android_gms_play_services_basement_17_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/.idea/libraries/Gradle__com_google_android_gms_play_services_measurement_17_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/.idea/libraries/Gradle__com_google_android_gms_play_services_measurement_api_17_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/.idea/libraries/Gradle__com_google_android_gms_play_services_measurement_base_17_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/.idea/libraries/Gradle__com_google_android_gms_play_services_measurement_impl_17_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/.idea/libraries/Gradle__com_google_android_gms_play_services_measurement_sdk_17_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/.idea/libraries/Gradle__com_google_android_gms_play_services_measurement_sdk_api_17_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/.idea/libraries/Gradle__com_google_android_gms_play_services_stats_17_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/.idea/libraries/Gradle__com_google_android_gms_play_services_tasks_17_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/.idea/libraries/Gradle__com_google_auto_value_auto_value_annotations_1_6_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_2_0_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/.idea/libraries/Gradle__com_google_firebase_firebase_analytics_17_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/.idea/libraries/Gradle__com_google_firebase_firebase_common_18_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/.idea/libraries/Gradle__com_google_firebase_firebase_core_17_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/.idea/libraries/Gradle__com_google_firebase_firebase_iid_19_0_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/.idea/libraries/Gradle__com_google_firebase_firebase_iid_interop_17_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/.idea/libraries/Gradle__com_google_firebase_firebase_measurement_connector_18_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/.idea/libraries/Gradle__com_google_firebase_firebase_messaging_19_0_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/.idea/libraries/Gradle__com_google_guava_listenablefuture_1_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/.idea/libraries/Gradle__com_squareup_javawriter_2_1_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/.idea/libraries/Gradle__javax_inject_javax_inject_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/.idea/libraries/Gradle__junit_junit_4_12_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/.idea/libraries/Gradle__net_sf_kxml_kxml2_2_3_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/.idea/libraries/Gradle__org_hamcrest_hamcrest_integration_1_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/.idea/libraries/Gradle__org_jetbrains_annotations_13_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_1_3_60_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_common_1_3_60_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk7_1_3_31_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/.idea/libraries/Gradle__org_jetbrains_kotlinx_kotlinx_coroutines_android_1_3_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/.idea/libraries/Gradle__org_jetbrains_kotlinx_kotlinx_coroutines_core_1_3_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-kotlin-notifications-master/app/app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolflash/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolflash/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolflash/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolflash/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolflash/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolflash/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolflash/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolflash/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolflash/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolflash/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolflash/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolflash/app/src/androidTest/java/com/kingfishapps/coolflash/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolflash/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolflash/app/src/main/java/com/kingfishapps/coolflash/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolflash/app/src/main/java/com/kingfishapps/coolflash/SplashActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolflash/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolflash/app/src/main/res/drawable/flash_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolflash/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolflash/app/src/main/res/drawable/kingfish_apps.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolflash/app/src/main/res/drawable/kingfish_developer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolflash/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolflash/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolflash/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolflash/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolflash/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolflash/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolflash/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolflash/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolflash/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolflash/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolflash/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolflash/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolflash/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolflash/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolflash/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolflash/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolflash/app/src/test/java/com/kingfishapps/coolflash/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolflash/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolflash/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolflash/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolflash/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolflash/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolflash/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coolflash/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gen/app/app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gen/gen.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javanewwritefile/app/src/main/java/com/kingfishapps/javanewwritefile/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my working apps backup/LanguageKing/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my working apps backup/LanguageKing/.idea/assetWizardSettings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my working apps backup/LanguageKing/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my working apps backup/LanguageKing/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my working apps backup/LanguageKing/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my working apps backup/LanguageKing/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my working apps backup/LanguageKing/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my working apps backup/LanguageKing/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my working apps backup/LanguageKing/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my working apps backup/LanguageKing/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my working apps backup/LanguageKing/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my working apps backup/LanguageKing/Screenshots/01_Main.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my working apps backup/LanguageKing/Screenshots/02_Menu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my working apps backup/LanguageKing/Screenshots/03_Add_new_message.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my working apps backup/LanguageKing/Screenshots/04_Edit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my working apps backup/LanguageKing/Screenshots/05_Delete.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my working apps backup/LanguageKing/TMessage-master.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my working apps backup/LanguageKing/_config.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my working apps backup/LanguageKing/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my working apps backup/LanguageKing/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my working apps backup/LanguageKing/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my working apps backup/LanguageKing/app/src/androidTest/java/com/textmessages/textmessagessimple/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my working apps backup/LanguageKing/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my working apps backup/LanguageKing/app/src/main/assets/database.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my working apps backup/LanguageKing/app/src/main/ic_launcher-playstore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my working apps backup/LanguageKing/app/src/main/java/com/textmessages/textmessagessimple/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my working apps backup/LanguageKing/app/src/main/java/com/textmessages/textmessagessimple/database/DBHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my working apps backup/LanguageKing/app/src/main/java/com/textmessages/textmessagessimple/notice/Notice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my working apps backup/LanguageKing/app/src/main/res/drawable/app_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my working apps backup/LanguageKing/app/src/main/res/drawable/ic_add_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my working apps backup/LanguageKing/app/src/main/res/drawable/ic_create_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my working apps backup/LanguageKing/app/src/main/res/drawable/ic_info_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my working apps backup/LanguageKing/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my working apps backup/LanguageKing/app/src/main/res/drawable/ic_notifications_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my working apps backup/LanguageKing/app/src/main/res/drawable/ic_search_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my working apps backup/LanguageKing/app/src/main/res/drawable/ic_share_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my working apps backup/LanguageKing/app/src/main/res/drawable/main_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my working apps backup/LanguageKing/app/src/main/res/drawable/microphone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my working apps backup/LanguageKing/app/src/main/res/drawable/microphone2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my working apps backup/LanguageKing/app/src/main/res/drawable/tmessage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my working apps backup/LanguageKing/app/src/main/res/layout/about.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my working apps backup/LanguageKing/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my working apps backup/LanguageKing/app/src/main/res/layout/add_category.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my working apps backup/LanguageKing/app/src/main/res/layout/add_list.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my working apps backup/LanguageKing/app/src/main/res/layout/add_message.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my working apps backup/LanguageKing/app/src/main/res/layout/content_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my working apps backup/LanguageKing/app/src/main/res/layout/delete.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my working apps backup/LanguageKing/app/src/main/res/layout/edit_category.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my working apps backup/LanguageKing/app/src/main/res/layout/edit_list.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my working apps backup/LanguageKing/app/src/main/res/layout/edit_menu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my working apps backup/LanguageKing/app/src/main/res/layout/edit_message.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my working apps backup/LanguageKing/app/src/main/res/layout/list_spinner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my working apps backup/LanguageKing/app/src/main/res/layout/switch_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my working apps backup/LanguageKing/app/src/main/res/layout/table.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my working apps backup/LanguageKing/app/src/main/res/layout/title_table.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my working apps backup/LanguageKing/app/src/main/res/menu/menu_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my working apps backup/LanguageKing/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my working apps backup/LanguageKing/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my working apps backup/LanguageKing/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my working apps backup/LanguageKing/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my working apps backup/LanguageKing/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my working apps backup/LanguageKing/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my working apps backup/LanguageKing/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my working apps backup/LanguageKing/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my working apps backup/LanguageKing/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my working apps backup/LanguageKing/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my working apps backup/LanguageKing/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my working apps backup/LanguageKing/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my working apps backup/LanguageKing/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my working apps backup/LanguageKing/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my working apps backup/LanguageKing/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my working apps backup/LanguageKing/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my working apps backup/LanguageKing/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my working apps backup/LanguageKing/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my working apps backup/LanguageKing/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my working apps backup/LanguageKing/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my working apps backup/LanguageKing/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my working apps backup/LanguageKing/app/src/test/java/com/textmessages/textmessagessimple/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my working apps backup/LanguageKing/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my working apps backup/LanguageKing/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my working apps backup/LanguageKing/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my working apps backup/LanguageKing/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my working apps backup/LanguageKing/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my working apps backup/LanguageKing/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my working apps backup/LanguageKing/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart-android-master/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart-android-master/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart-android-master/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart-android-master/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart-android-master/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart-android-master/app-indexing/app/google-services.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart-android-master/storage/app/google-services.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AboutMe/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AboutMe/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AboutMe/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AboutMe/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AboutMe/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AboutMe/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AboutMe/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AboutMe/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AboutMe/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AboutMe/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AboutMe/app/src/androidTest/java/com/kingfishapps/aboutme/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AboutMe/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AboutMe/app/src/main/java/com/kingfishapps/aboutme/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AboutMe/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AboutMe/app/src/main/res/drawable/about_android_trivia.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AboutMe/app/src/main/res/drawable/flag.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AboutMe/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AboutMe/app/src/main/res/drawable/tunisian_flag_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AboutMe/app/src/main/res/font/roboto.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AboutMe/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AboutMe/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AboutMe/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AboutMe/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AboutMe/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AboutMe/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AboutMe/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AboutMe/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AboutMe/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AboutMe/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AboutMe/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AboutMe/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AboutMe/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AboutMe/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AboutMe/app/src/main/res/values/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AboutMe/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AboutMe/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AboutMe/app/src/test/java/com/kingfishapps/aboutme/ExampleUnitTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AboutMe/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AboutMe/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AboutMe/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AboutMe/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AboutMe/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AboutMe/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AboutMe/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorMyViews/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorMyViews/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorMyViews/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorMyViews/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorMyViews/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorMyViews/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorMyViews/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorMyViews/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorMyViews/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorMyViews/app/src/androidTest/java/com/kingfishapps/colormyviews/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorMyViews/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorMyViews/app/src/main/java/com/kingfishapps/colormyviews/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorMyViews/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorMyViews/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorMyViews/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorMyViews/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorMyViews/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorMyViews/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorMyViews/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorMyViews/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorMyViews/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorMyViews/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorMyViews/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorMyViews/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorMyViews/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorMyViews/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorMyViews/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorMyViews/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorMyViews/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorMyViews/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorMyViews/app/src/test/java/com/kingfishapps/colormyviews/ExampleUnitTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorMyViews/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorMyViews/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorMyViews/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorMyViews/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorMyViews/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorMyViews/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorMyViews/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DiceRoller/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DiceRoller/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DiceRoller/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DiceRoller/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DiceRoller/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DiceRoller/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DiceRoller/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DiceRoller/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DiceRoller/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DiceRoller/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DiceRoller/app/src/androidTest/java/com/kingfishapps/diceroller/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DiceRoller/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DiceRoller/app/src/main/java/com/kingfishapps/diceroller/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DiceRoller/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DiceRoller/app/src/main/res/drawable/dice_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DiceRoller/app/src/main/res/drawable/dice_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DiceRoller/app/src/main/res/drawable/dice_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DiceRoller/app/src/main/res/drawable/dice_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DiceRoller/app/src/main/res/drawable/dice_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DiceRoller/app/src/main/res/drawable/dice_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DiceRoller/app/src/main/res/drawable/empty_dice.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DiceRoller/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DiceRoller/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DiceRoller/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DiceRoller/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DiceRoller/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DiceRoller/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DiceRoller/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DiceRoller/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DiceRoller/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DiceRoller/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DiceRoller/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DiceRoller/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DiceRoller/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DiceRoller/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DiceRoller/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DiceRoller/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DiceRoller/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DiceRoller/app/src/test/java/com/kingfishapps/diceroller/ExampleUnitTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DiceRoller/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DiceRoller/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DiceRoller/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DiceRoller/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DiceRoller/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DiceRoller/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DiceRoller/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-android-trivia-starter-code/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-android-trivia-starter-code/.idea/navEditor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-android-trivia-starter-code/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-android-trivia-starter-code/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-android-trivia-starter-code/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-android-trivia-starter-code/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-android-trivia-starter-code/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-android-trivia-starter-code/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-android-trivia-starter-code/app/src/main/java/com/example/android/navigation/AboutFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-android-trivia-starter-code/app/src/main/java/com/example/android/navigation/GameFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-android-trivia-starter-code/app/src/main/java/com/example/android/navigation/GameOverFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-android-trivia-starter-code/app/src/main/java/com/example/android/navigation/GameWonFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-android-trivia-starter-code/app/src/main/java/com/example/android/navigation/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-android-trivia-starter-code/app/src/main/java/com/example/android/navigation/RulesFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-android-trivia-starter-code/app/src/main/java/com/example/android/navigation/TitleFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-android-trivia-starter-code/app/src/main/res/anim/fade_out.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-android-trivia-starter-code/app/src/main/res/anim/slide_in_right.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-android-trivia-starter-code/app/src/main/res/anim/slide_out_left.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-android-trivia-starter-code/app/src/main/res/anim/slide_out_right.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-android-trivia-starter-code/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-android-trivia-starter-code/app/src/main/res/drawable/about_android_trivia.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-android-trivia-starter-code/app/src/main/res/drawable/android.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-android-trivia-starter-code/app/src/main/res/drawable/android_category_simple.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-android-trivia-starter-code/app/src/main/res/drawable/android_trivia.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-android-trivia-starter-code/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-android-trivia-starter-code/app/src/main/res/drawable/nav_header.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-android-trivia-starter-code/app/src/main/res/drawable/rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-android-trivia-starter-code/app/src/main/res/drawable/settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-android-trivia-starter-code/app/src/main/res/drawable/share.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-android-trivia-starter-code/app/src/main/res/drawable/trivia_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-android-trivia-starter-code/app/src/main/res/drawable/try_again.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-android-trivia-starter-code/app/src/main/res/drawable/you_win.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-android-trivia-starter-code/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-android-trivia-starter-code/app/src/main/res/layout/fragment_about.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-android-trivia-starter-code/app/src/main/res/layout/fragment_game.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-android-trivia-starter-code/app/src/main/res/layout/fragment_game_over.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-android-trivia-starter-code/app/src/main/res/layout/fragment_game_won.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-android-trivia-starter-code/app/src/main/res/layout/fragment_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-android-trivia-starter-code/app/src/main/res/layout/fragment_title.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-android-trivia-starter-code/app/src/main/res/layout/nav_header.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-android-trivia-starter-code/app/src/main/res/menu/winner_menu.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-android-trivia-starter-code/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-android-trivia-starter-code/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-android-trivia-starter-code/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-android-trivia-starter-code/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-android-trivia-starter-code/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-android-trivia-starter-code/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-android-trivia-starter-code/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-android-trivia-starter-code/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-android-trivia-starter-code/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-android-trivia-starter-code/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-android-trivia-starter-code/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-android-trivia-starter-code/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-android-trivia-starter-code/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-android-trivia-starter-code/app/src/main/res/values/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-android-trivia-starter-code/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-android-trivia-starter-code/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-android-trivia-starter-code/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-android-trivia-starter-code/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-android-trivia-starter-code/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-android-trivia-starter-code/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-android-trivia-starter-code/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-android-trivia-starter-code/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-android-trivia-starter-code/screenshots/screen_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-android-trivia-starter-code/screenshots/screen_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-android-trivia-starter-code/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-master/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-master/Activity_Lifecycle_Worksheet.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-master/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-master/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-master/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-master/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-master/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-master/app/src/main/ic_dessert_pusher-web.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-master/app/src/main/java/com/example/android/dessertpusher/DessertTimer.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-master/app/src/main/java/com/example/android/dessertpusher/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-master/app/src/main/java/com/example/android/dessertpusher/PusherApplication.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-master/app/src/main/res/drawable/bakery_back.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-master/app/src/main/res/drawable/cupcake.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-master/app/src/main/res/drawable/donut.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-master/app/src/main/res/drawable/eclair.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-master/app/src/main/res/drawable/froyo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-master/app/src/main/res/drawable/gingerbread.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-master/app/src/main/res/drawable/honeycomb.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-master/app/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-master/app/src/main/res/drawable/icecreamsandwich.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-master/app/src/main/res/drawable/jellybean.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-master/app/src/main/res/drawable/kitkat.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-master/app/src/main/res/drawable/lollipop.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-master/app/src/main/res/drawable/marshmallow.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-master/app/src/main/res/drawable/nougat.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-master/app/src/main/res/drawable/oreo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-master/app/src/main/res/drawable/white_box.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-master/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-master/app/src/main/res/menu/main_menu.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-master/app/src/main/res/mipmap-anydpi-v26/ic_dessert_pusher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-master/app/src/main/res/mipmap-anydpi-v26/ic_dessert_pusher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-master/app/src/main/res/mipmap-hdpi/ic_dessert_pusher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-master/app/src/main/res/mipmap-hdpi/ic_dessert_pusher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-master/app/src/main/res/mipmap-mdpi/ic_dessert_pusher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-master/app/src/main/res/mipmap-mdpi/ic_dessert_pusher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-master/app/src/main/res/mipmap-xhdpi/ic_dessert_pusher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-master/app/src/main/res/mipmap-xhdpi/ic_dessert_pusher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-master/app/src/main/res/mipmap-xxhdpi/ic_dessert_pusher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-master/app/src/main/res/mipmap-xxhdpi/ic_dessert_pusher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-master/app/src/main/res/mipmap-xxxhdpi/ic_dessert_pusher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-master/app/src/main/res/mipmap-xxxhdpi/ic_dessert_pusher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-master/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-master/app/src/main/res/values/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-master/app/src/main/res/values/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-master/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-master/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-master/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-master/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-master/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-master/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-master/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-master/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-master/screenshots/screen0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-master/screenshots/screen1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-master/screenshots/screen2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-master/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-starter-code/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-starter-code/Activity_Lifecycle_Worksheet.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-starter-code/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-starter-code/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-starter-code/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-starter-code/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-starter-code/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-starter-code/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-starter-code/app/src/main/ic_dessert_pusher-web.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-starter-code/app/src/main/java/com/example/android/dessertpusher/DessertTimer.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-starter-code/app/src/main/java/com/example/android/dessertpusher/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-starter-code/app/src/main/res/drawable/bakery_back.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-starter-code/app/src/main/res/drawable/cupcake.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-starter-code/app/src/main/res/drawable/donut.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-starter-code/app/src/main/res/drawable/eclair.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-starter-code/app/src/main/res/drawable/froyo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-starter-code/app/src/main/res/drawable/gingerbread.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-starter-code/app/src/main/res/drawable/honeycomb.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-starter-code/app/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-starter-code/app/src/main/res/drawable/icecreamsandwich.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-starter-code/app/src/main/res/drawable/jellybean.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-starter-code/app/src/main/res/drawable/kitkat.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-starter-code/app/src/main/res/drawable/lollipop.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-starter-code/app/src/main/res/drawable/marshmallow.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-starter-code/app/src/main/res/drawable/nougat.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-starter-code/app/src/main/res/drawable/oreo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-starter-code/app/src/main/res/drawable/white_box.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-starter-code/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-starter-code/app/src/main/res/menu/main_menu.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-starter-code/app/src/main/res/mipmap-anydpi-v26/ic_dessert_pusher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-starter-code/app/src/main/res/mipmap-anydpi-v26/ic_dessert_pusher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-starter-code/app/src/main/res/mipmap-hdpi/ic_dessert_pusher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-starter-code/app/src/main/res/mipmap-hdpi/ic_dessert_pusher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-starter-code/app/src/main/res/mipmap-mdpi/ic_dessert_pusher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-starter-code/app/src/main/res/mipmap-mdpi/ic_dessert_pusher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-starter-code/app/src/main/res/mipmap-xhdpi/ic_dessert_pusher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-starter-code/app/src/main/res/mipmap-xhdpi/ic_dessert_pusher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-starter-code/app/src/main/res/mipmap-xxhdpi/ic_dessert_pusher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-starter-code/app/src/main/res/mipmap-xxhdpi/ic_dessert_pusher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-starter-code/app/src/main/res/mipmap-xxxhdpi/ic_dessert_pusher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-starter-code/app/src/main/res/mipmap-xxxhdpi/ic_dessert_pusher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-starter-code/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-starter-code/app/src/main/res/values/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-starter-code/app/src/main/res/values/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-starter-code/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-starter-code/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-starter-code/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-starter-code/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-starter-code/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-starter-code/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-starter-code/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-starter-code/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-starter-code/screenshots/screen0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-starter-code/screenshots/screen1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-starter-code/screenshots/screen2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dessert-pusher-starter-code/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dice-roller-Step.04-Exercise-Adding-the-ImageView/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dice-roller-Step.04-Exercise-Adding-the-ImageView/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dice-roller-Step.04-Exercise-Adding-the-ImageView/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dice-roller-Step.04-Exercise-Adding-the-ImageView/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dice-roller-Step.04-Exercise-Adding-the-ImageView/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dice-roller-Step.04-Exercise-Adding-the-ImageView/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dice-roller-Step.04-Exercise-Adding-the-ImageView/app/src/androidTest/java/com/example/android/diceroller/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dice-roller-Step.04-Exercise-Adding-the-ImageView/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dice-roller-Step.04-Exercise-Adding-the-ImageView/app/src/main/java/com/example/android/diceroller/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dice-roller-Step.04-Exercise-Adding-the-ImageView/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dice-roller-Step.04-Exercise-Adding-the-ImageView/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dice-roller-Step.04-Exercise-Adding-the-ImageView/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dice-roller-Step.04-Exercise-Adding-the-ImageView/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dice-roller-Step.04-Exercise-Adding-the-ImageView/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dice-roller-Step.04-Exercise-Adding-the-ImageView/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dice-roller-Step.04-Exercise-Adding-the-ImageView/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dice-roller-Step.04-Exercise-Adding-the-ImageView/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dice-roller-Step.04-Exercise-Adding-the-ImageView/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dice-roller-Step.04-Exercise-Adding-the-ImageView/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dice-roller-Step.04-Exercise-Adding-the-ImageView/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dice-roller-Step.04-Exercise-Adding-the-ImageView/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dice-roller-Step.04-Exercise-Adding-the-ImageView/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dice-roller-Step.04-Exercise-Adding-the-ImageView/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dice-roller-Step.04-Exercise-Adding-the-ImageView/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dice-roller-Step.04-Exercise-Adding-the-ImageView/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dice-roller-Step.04-Exercise-Adding-the-ImageView/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dice-roller-Step.04-Exercise-Adding-the-ImageView/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dice-roller-Step.04-Exercise-Adding-the-ImageView/app/src/test/java/com/example/android/diceroller/ExampleUnitTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dice-roller-Step.04-Exercise-Adding-the-ImageView/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dice-roller-Step.04-Exercise-Adding-the-ImageView/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dice-roller-Step.04-Exercise-Adding-the-ImageView/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dice-roller-Step.04-Exercise-Adding-the-ImageView/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dice-roller-Step.04-Exercise-Adding-the-ImageView/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dice-roller-Step.04-Exercise-Adding-the-ImageView/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dice-roller-Step.04-Exercise-Adding-the-ImageView/screenshots/screen0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dice-roller-Step.04-Exercise-Adding-the-ImageView/screenshots/screen1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dice-roller-Step.04-Exercise-Adding-the-ImageView/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dice-roller-master/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dice-roller-master/DiceImages.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dice-roller-master/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dice-roller-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dice-roller-master/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dice-roller-master/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dice-roller-master/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dice-roller-master/app/src/androidTest/java/com/example/android/diceroller/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dice-roller-master/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dice-roller-master/app/src/main/java/com/example/android/diceroller/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dice-roller-master/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dice-roller-master/app/src/main/res/drawable/dice_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dice-roller-master/app/src/main/res/drawable/dice_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dice-roller-master/app/src/main/res/drawable/dice_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dice-roller-master/app/src/main/res/drawable/dice_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dice-roller-master/app/src/main/res/drawable/dice_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dice-roller-master/app/src/main/res/drawable/dice_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dice-roller-master/app/src/main/res/drawable/empty_dice.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dice-roller-master/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dice-roller-master/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dice-roller-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dice-roller-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dice-roller-master/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dice-roller-master/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dice-roller-master/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dice-roller-master/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dice-roller-master/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dice-roller-master/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dice-roller-master/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dice-roller-master/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dice-roller-master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dice-roller-master/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dice-roller-master/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dice-roller-master/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dice-roller-master/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dice-roller-master/app/src/test/java/com/example/android/diceroller/ExampleUnitTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dice-roller-master/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dice-roller-master/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dice-roller-master/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dice-roller-master/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dice-roller-master/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dice-roller-master/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dice-roller-master/screenshots/screen0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dice-roller-master/screenshots/screen1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-dice-roller-master/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-guess-it-master/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-guess-it-master/.idea/navEditor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-guess-it-master/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-guess-it-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-guess-it-master/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-guess-it-master/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-guess-it-master/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-guess-it-master/app/src/androidTest/java/com/example/android/guesstheword/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-guess-it-master/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-guess-it-master/app/src/main/ic_guess_it-web.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-guess-it-master/app/src/main/java/com/example/android/guesstheword/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-guess-it-master/app/src/main/java/com/example/android/guesstheword/screens/game/GameFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-guess-it-master/app/src/main/java/com/example/android/guesstheword/screens/game/GameViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-guess-it-master/app/src/main/java/com/example/android/guesstheword/screens/score/ScoreFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-guess-it-master/app/src/main/java/com/example/android/guesstheword/screens/score/ScoreViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-guess-it-master/app/src/main/java/com/example/android/guesstheword/screens/score/ScoreViewModelFactory.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-guess-it-master/app/src/main/java/com/example/android/guesstheword/screens/title/TitleFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-guess-it-master/app/src/main/res/anim/slide_in_right.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-guess-it-master/app/src/main/res/anim/slide_out_left.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-guess-it-master/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-guess-it-master/app/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-guess-it-master/app/src/main/res/layout/game_fragment.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-guess-it-master/app/src/main/res/layout/main_activity.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-guess-it-master/app/src/main/res/layout/score_fragment.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-guess-it-master/app/src/main/res/layout/title_fragment.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-guess-it-master/app/src/main/res/mipmap-anydpi-v26/ic_guess_it.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-guess-it-master/app/src/main/res/mipmap-anydpi-v26/ic_guess_it_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-guess-it-master/app/src/main/res/mipmap-hdpi/ic_guess_it.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-guess-it-master/app/src/main/res/mipmap-hdpi/ic_guess_it_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-guess-it-master/app/src/main/res/mipmap-mdpi/ic_guess_it.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-guess-it-master/app/src/main/res/mipmap-mdpi/ic_guess_it_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-guess-it-master/app/src/main/res/mipmap-xhdpi/ic_guess_it.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-guess-it-master/app/src/main/res/mipmap-xhdpi/ic_guess_it_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-guess-it-master/app/src/main/res/mipmap-xxhdpi/ic_guess_it.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-guess-it-master/app/src/main/res/mipmap-xxhdpi/ic_guess_it_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-guess-it-master/app/src/main/res/mipmap-xxxhdpi/ic_guess_it.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-guess-it-master/app/src/main/res/mipmap-xxxhdpi/ic_guess_it_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-guess-it-master/app/src/main/res/navigation/main_navigation.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-guess-it-master/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-guess-it-master/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-guess-it-master/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-guess-it-master/app/src/test/java/com/example/android/guesstheword/ExampleUnitTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-guess-it-master/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-guess-it-master/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-guess-it-master/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-guess-it-master/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-guess-it-master/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-guess-it-master/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-guess-it-master/screenshots/screen0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-guess-it-master/screenshots/screen1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-guess-it-master/screenshots/screen2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-guess-it-master/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-guess-it-starter-code/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-guess-it-starter-code/.idea/navEditor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-guess-it-starter-code/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-guess-it-starter-code/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-guess-it-starter-code/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-guess-it-starter-code/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-guess-it-starter-code/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-guess-it-starter-code/app/src/androidTest/java/com/example/android/guesstheword/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-guess-it-starter-code/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-guess-it-starter-code/app/src/main/ic_guess_it-web.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-guess-it-starter-code/app/src/main/java/com/example/android/guesstheword/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-guess-it-starter-code/app/src/main/java/com/example/android/guesstheword/screens/game/GameFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-guess-it-starter-code/app/src/main/java/com/example/android/guesstheword/screens/score/ScoreFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-guess-it-starter-code/app/src/main/java/com/example/android/guesstheword/screens/title/TitleFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-guess-it-starter-code/app/src/main/res/anim/slide_in_right.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-guess-it-starter-code/app/src/main/res/anim/slide_out_left.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-guess-it-starter-code/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-guess-it-starter-code/app/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-guess-it-starter-code/app/src/main/res/layout/game_fragment.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-guess-it-starter-code/app/src/main/res/layout/main_activity.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-guess-it-starter-code/app/src/main/res/layout/score_fragment.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-guess-it-starter-code/app/src/main/res/layout/title_fragment.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-guess-it-starter-code/app/src/main/res/mipmap-anydpi-v26/ic_guess_it.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-guess-it-starter-code/app/src/main/res/mipmap-anydpi-v26/ic_guess_it_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-guess-it-starter-code/app/src/main/res/mipmap-hdpi/ic_guess_it.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-guess-it-starter-code/app/src/main/res/mipmap-hdpi/ic_guess_it_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-guess-it-starter-code/app/src/main/res/mipmap-mdpi/ic_guess_it.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-guess-it-starter-code/app/src/main/res/mipmap-mdpi/ic_guess_it_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-guess-it-starter-code/app/src/main/res/mipmap-xhdpi/ic_guess_it.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-guess-it-starter-code/app/src/main/res/mipmap-xhdpi/ic_guess_it_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-guess-it-starter-code/app/src/main/res/mipmap-xxhdpi/ic_guess_it.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-guess-it-starter-code/app/src/main/res/mipmap-xxhdpi/ic_guess_it_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-guess-it-starter-code/app/src/main/res/mipmap-xxxhdpi/ic_guess_it.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-guess-it-starter-code/app/src/main/res/mipmap-xxxhdpi/ic_guess_it_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-guess-it-starter-code/app/src/main/res/navigation/main_navigation.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-guess-it-starter-code/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-guess-it-starter-code/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-guess-it-starter-code/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-guess-it-starter-code/app/src/test/java/com/example/android/guesstheword/ExampleUnitTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-guess-it-starter-code/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-guess-it-starter-code/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-guess-it-starter-code/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-guess-it-starter-code/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-guess-it-starter-code/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-guess-it-starter-code/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-guess-it-starter-code/screenshots/screen0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-guess-it-starter-code/screenshots/screen1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-guess-it-starter-code/screenshots/screen2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-guess-it-starter-code/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-sleep-tracker-with-recyclerview-master/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-sleep-tracker-with-recyclerview-master/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-sleep-tracker-with-recyclerview-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-sleep-tracker-with-recyclerview-master/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-sleep-tracker-with-recyclerview-master/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-sleep-tracker-with-recyclerview-master/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-sleep-tracker-with-recyclerview-master/app/src/androidTest/java/com/example/android/trackmysleepquality/SleepDatabaseTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-sleep-tracker-with-recyclerview-master/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-sleep-tracker-with-recyclerview-master/app/src/main/ic_launcher_sleep_tracker-web.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-sleep-tracker-with-recyclerview-master/app/src/main/java/com/example/android/trackmysleepquality/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-sleep-tracker-with-recyclerview-master/app/src/main/java/com/example/android/trackmysleepquality/Util.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-sleep-tracker-with-recyclerview-master/app/src/main/java/com/example/android/trackmysleepquality/database/SleepDatabase.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-sleep-tracker-with-recyclerview-master/app/src/main/java/com/example/android/trackmysleepquality/database/SleepDatabaseDao.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-sleep-tracker-with-recyclerview-master/app/src/main/java/com/example/android/trackmysleepquality/database/SleepNight.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-sleep-tracker-with-recyclerview-master/app/src/main/java/com/example/android/trackmysleepquality/sleepdetail/SleepDetailFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-sleep-tracker-with-recyclerview-master/app/src/main/java/com/example/android/trackmysleepquality/sleepdetail/SleepDetailViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-sleep-tracker-with-recyclerview-master/app/src/main/java/com/example/android/trackmysleepquality/sleepdetail/SleepDetailViewModelFactory.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-sleep-tracker-with-recyclerview-master/app/src/main/java/com/example/android/trackmysleepquality/sleepquality/SleepQualityFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-sleep-tracker-with-recyclerview-master/app/src/main/java/com/example/android/trackmysleepquality/sleepquality/SleepQualityViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-sleep-tracker-with-recyclerview-master/app/src/main/java/com/example/android/trackmysleepquality/sleepquality/SleepQualityViewModelFactory.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-sleep-tracker-with-recyclerview-master/app/src/main/java/com/example/android/trackmysleepquality/sleeptracker/BindingUtils.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-sleep-tracker-with-recyclerview-master/app/src/main/java/com/example/android/trackmysleepquality/sleeptracker/SleepNightAdapter.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-sleep-tracker-with-recyclerview-master/app/src/main/java/com/example/android/trackmysleepquality/sleeptracker/SleepTrackerFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-sleep-tracker-with-recyclerview-master/app/src/main/java/com/example/android/trackmysleepquality/sleeptracker/SleepTrackerViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-sleep-tracker-with-recyclerview-master/app/src/main/java/com/example/android/trackmysleepquality/sleeptracker/SleepTrackerViewModelFactory.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-sleep-tracker-with-recyclerview-master/app/src/main/res/anim/slide_in_right.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-sleep-tracker-with-recyclerview-master/app/src/main/res/drawable/ic_launcher_sleep_tracker_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-sleep-tracker-with-recyclerview-master/app/src/main/res/drawable/ic_launcher_sleep_tracker_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-sleep-tracker-with-recyclerview-master/app/src/main/res/drawable/ic_sleep_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-sleep-tracker-with-recyclerview-master/app/src/main/res/drawable/ic_sleep_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-sleep-tracker-with-recyclerview-master/app/src/main/res/drawable/ic_sleep_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-sleep-tracker-with-recyclerview-master/app/src/main/res/drawable/ic_sleep_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-sleep-tracker-with-recyclerview-master/app/src/main/res/drawable/ic_sleep_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-sleep-tracker-with-recyclerview-master/app/src/main/res/drawable/ic_sleep_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-sleep-tracker-with-recyclerview-master/app/src/main/res/drawable/ic_sleep_active.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-sleep-tracker-with-recyclerview-master/app/src/main/res/font/roboto.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-sleep-tracker-with-recyclerview-master/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-sleep-tracker-with-recyclerview-master/app/src/main/res/layout/fragment_sleep_detail.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-sleep-tracker-with-recyclerview-master/app/src/main/res/layout/fragment_sleep_quality.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-sleep-tracker-with-recyclerview-master/app/src/main/res/layout/fragment_sleep_tracker.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-sleep-tracker-with-recyclerview-master/app/src/main/res/layout/header.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-sleep-tracker-with-recyclerview-master/app/src/main/res/layout/list_item_sleep_night.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-sleep-tracker-with-recyclerview-master/app/src/main/res/layout/text_item_view.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-sleep-tracker-with-recyclerview-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-sleep-tracker-with-recyclerview-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-sleep-tracker-with-recyclerview-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher_sleep_tracker.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-sleep-tracker-with-recyclerview-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher_sleep_tracker_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-sleep-tracker-with-recyclerview-master/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-sleep-tracker-with-recyclerview-master/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-sleep-tracker-with-recyclerview-master/app/src/main/res/mipmap-hdpi/ic_launcher_sleep_tracker.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-sleep-tracker-with-recyclerview-master/app/src/main/res/mipmap-hdpi/ic_launcher_sleep_tracker_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-sleep-tracker-with-recyclerview-master/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-sleep-tracker-with-recyclerview-master/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-sleep-tracker-with-recyclerview-master/app/src/main/res/mipmap-mdpi/ic_launcher_sleep_tracker.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-sleep-tracker-with-recyclerview-master/app/src/main/res/mipmap-mdpi/ic_launcher_sleep_tracker_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-sleep-tracker-with-recyclerview-master/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-sleep-tracker-with-recyclerview-master/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-sleep-tracker-with-recyclerview-master/app/src/main/res/mipmap-xhdpi/ic_launcher_sleep_tracker.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-sleep-tracker-with-recyclerview-master/app/src/main/res/mipmap-xhdpi/ic_launcher_sleep_tracker_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-sleep-tracker-with-recyclerview-master/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-sleep-tracker-with-recyclerview-master/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-sleep-tracker-with-recyclerview-master/app/src/main/res/mipmap-xxhdpi/ic_launcher_sleep_tracker.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-sleep-tracker-with-recyclerview-master/app/src/main/res/mipmap-xxhdpi/ic_launcher_sleep_tracker_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-sleep-tracker-with-recyclerview-master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-sleep-tracker-with-recyclerview-master/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-sleep-tracker-with-recyclerview-master/app/src/main/res/mipmap-xxxhdpi/ic_launcher_sleep_tracker.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-sleep-tracker-with-recyclerview-master/app/src/main/res/mipmap-xxxhdpi/ic_launcher_sleep_tracker_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-sleep-tracker-with-recyclerview-master/app/src/main/res/navigation/navigation.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-sleep-tracker-with-recyclerview-master/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-sleep-tracker-with-recyclerview-master/app/src/main/res/values/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-sleep-tracker-with-recyclerview-master/app/src/main/res/values/font_certs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-sleep-tracker-with-recyclerview-master/app/src/main/res/values/preloaded_fonts.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-sleep-tracker-with-recyclerview-master/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-sleep-tracker-with-recyclerview-master/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-sleep-tracker-with-recyclerview-master/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-sleep-tracker-with-recyclerview-master/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-sleep-tracker-with-recyclerview-master/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-sleep-tracker-with-recyclerview-master/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-sleep-tracker-with-recyclerview-master/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-sleep-tracker-with-recyclerview-master/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-sleep-tracker-with-recyclerview-master/screenshots/sleep_tracker_recycler_detail.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-sleep-tracker-with-recyclerview-master/screenshots/sleep_tracker_recycler_home.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../andfun-kotlin-sleep-tracker-with-recyclerview-master/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../junk/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../junk/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../junk/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../junk/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../junk/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../junk/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../junk/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../junk/app/src/androidTest/java/com/kingfishapps/junk/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../junk/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../junk/app/src/main/java/com/kingfishapps/junk/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../junk/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../junk/app/src/main/res/drawable-v24/test_image_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../junk/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../junk/app/src/main/res/drawable/test_image_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../junk/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../junk/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../junk/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../junk/app/src/main/res/mipmap-anydpi-v26/test_image.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../junk/app/src/main/res/mipmap-anydpi-v26/test_image_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../junk/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../junk/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../junk/app/src/main/res/mipmap-hdpi/test_image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../junk/app/src/main/res/mipmap-hdpi/test_image_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../junk/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../junk/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../junk/app/src/main/res/mipmap-mdpi/test_image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../junk/app/src/main/res/mipmap-mdpi/test_image_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../junk/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../junk/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../junk/app/src/main/res/mipmap-xhdpi/test_image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../junk/app/src/main/res/mipmap-xhdpi/test_image_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../junk/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../junk/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../junk/app/src/main/res/mipmap-xxhdpi/test_image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../junk/app/src/main/res/mipmap-xxhdpi/test_image_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../junk/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../junk/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../junk/app/src/main/res/mipmap-xxxhdpi/test_image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../junk/app/src/main/res/mipmap-xxxhdpi/test_image_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../junk/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../junk/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../junk/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../junk/app/src/main/test_image-web.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../junk/app/src/test/java/com/kingfishapps/junk/ExampleUnitTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../junk/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../junk/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../junk/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../junk/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../junk/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../junk/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../junk/settings.gradle" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Nexus_5X_API_R" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="valueResourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1cN9FhgzoalNOuaSM3eNNhymMo6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dfaaae0c-93f8-45c6-8333-df7c118d8da5" name="Default Changelist" comment="" />
+      <created>1590358081781</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590358081781</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
